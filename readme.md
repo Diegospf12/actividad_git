@@ -1,6 +1,7 @@
 # Participantes
 
  - Diego Pacheco
+ - Juan Pedro Vazquez
 
 ## Comandos de Terminal
 
