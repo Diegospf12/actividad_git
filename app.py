@@ -7,6 +7,7 @@ app = Flask(__name__)
 def hello():
     print("Mi modificación1")
     return '<h1>Mi modificacion</h1>'
+<<<<<<< HEAD
 
 @app.route('/sumar')
 def sumar():
@@ -25,3 +26,6 @@ def multiplicar():
 if __name__ == '__main__':
     app.run()
 
+=======
+    return '<h1>Hello, World!</h1>   software el mejor curso'
+>>>>>>> a6d852a23e8536d0e4770c305fd346b5ff6db7f3
