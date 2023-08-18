@@ -12,4 +12,4 @@
  - git branch feature2
  - git checkout feature1
  - git checkout feature2
- - 
+ - git push --set-upstream origin feature1
